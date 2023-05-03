@@ -13,6 +13,8 @@ MKS ESC_RC based on [nRF24-Esk8-Remote.](https://github.com/SolidGeek/nRF24-Esk8
 * Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware
+VESC75 recommends using V5.2 firmware.
+
 [Compatible Benjamin VESC.](https://vesc-project.com/)
 
 ## Hardware
